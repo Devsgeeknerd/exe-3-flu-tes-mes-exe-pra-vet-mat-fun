@@ -28,7 +28,7 @@ void main()
     int moda = 0;     // Variável para armazenar o índice da moda.
     int contador = 0; // Variável para contar a maior frequência.
 
-    // Laço para entrada de dados no vetor1
+    // Laço para entrada de dados no vetor.
     for (int i = 0; i < 5; i++)
     {
         printf("Digite um número para a posição %d do vetor: ", i + 1);
